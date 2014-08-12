@@ -1,3 +1,3 @@
 GitHub is a SaaS web application that combines the version control systems of the command-line utility git, with added utilities through an online GUI. Added utilities include project management tools, wiki pages which are available for use within projects.
 
-In addition to the project services, 
+In addition to the project services, GitHub offers "Gists", small snippets of code that can be used 
